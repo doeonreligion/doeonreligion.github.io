@@ -12,6 +12,7 @@ div {
     grid-template-columns: 3fr 1fr;    
 }
 
+
 #main #contents {
     min-height: 500px; 
     background-color:lightblue; 
